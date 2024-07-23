@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Thi
 
-- 💼 Software Engineer with backend software development experience sharing my journey and learnings in tech.
 - 💼 Worked as a software engineer in the Payment Card team, contributing to high-impact projects and ensuring robust security measures.
 - 🔭 Current Focus: Expanding my knowledge in system design and advanced algorithms through practical projects.
 - 🌱 Learning: I’m actively practicing on LeetCode, with 97 problems solved so far mainly in Java.
