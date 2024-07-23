@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Thi
+## Hi, I'm Thi
 
 - 💼 Worked as a software engineer in the Payment Card team, contributing to high-impact projects and ensuring robust security measures.
 - 🔭 Current Focus: Expanding my knowledge in system design and advanced algorithms through practical projects.
